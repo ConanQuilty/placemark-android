@@ -22,7 +22,7 @@ class PlacemarkMemStore {
             val foundIndex = placemarks.indexOf(foundPlacemark)
             placemarks[foundIndex] = placemarks[foundIndex].copy(
                 title = placemark.title,
-                description = placemark.description,
+                desc = placemark.desc,
                 x = placemark.x,
                 y = placemark.y,
             )
