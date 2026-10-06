@@ -8,8 +8,8 @@ package com.example.placemark.models
 data class PlacemarkModel (
     var id: Long = 0L,
     var title: String = "",
-    var description: String = "",
-    val x: Float = 0.0f,
-    val y: Float = 0.0f
+    var desc: String = "",
+    val x: Double = 0.0,
+    val y: Double = 0.0
 
 )
