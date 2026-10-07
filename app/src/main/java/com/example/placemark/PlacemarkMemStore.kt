@@ -1,4 +1,4 @@
-package com.example.placemark.models
+package com.example.placemark
 
 import java.util.concurrent.atomic.AtomicLong
 

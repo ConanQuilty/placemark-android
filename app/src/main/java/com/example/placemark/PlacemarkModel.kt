@@ -1,4 +1,4 @@
-package com.example.placemark.models
+package com.example.placemark
 
 /**
  * Data class representing a single Placemark item.
